@@ -5,6 +5,7 @@ public class ArrayWithFor {
         iarray[1] = 2;
         System.out.println(iarray.length);
 
+
         for(int i = 0; i < iarray.length; i++) {
             iarray[i] = i + 1;
         }
