@@ -16,7 +16,7 @@ public class Switch {
             default :
                 System.out.println("�� �� �ٸ� ����");
         }
-        String str = "A";
+        java.lang.String str = "A";
         switch(str) {
             case "A":
                 System.out.println("A");

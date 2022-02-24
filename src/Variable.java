@@ -10,7 +10,7 @@ public class Variable {
 
         double avg = 11.1;
 
-        String name = "Jami";
+        java.lang.String name = "Jami";
 
 //		������ ù��° ���ڰ� �׻� �ҹ��ڷ� ���ȴ�.
 //		������ �δܾ� �̻��� ���ɶ��� �ι�° �ܾ��� ù���ڴ� �빮�ڷ� ���
